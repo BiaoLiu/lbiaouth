@@ -84,10 +84,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'lbi_oauth',
-        'HOST': '120.27.46.167',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
         'USER': 'root',
-        'PASSWORD': 'liubiao287536'
+        'PASSWORD': 'abc123456'
     }
 }
 
